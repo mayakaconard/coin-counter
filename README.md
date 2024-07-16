@@ -39,7 +39,7 @@ To use the coin counter application, integrate the coinCounterRecursive and coin
     ```bash
     const { coinCounterRecursive, coinCounterClosure } = require('./index');
 
-    const amount = 4.99;
+    const amount = 5.80;
 
     // Using coinCounterRecursive
     const changeRecursive = coinCounterRecursive(amount);
